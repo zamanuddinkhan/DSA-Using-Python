@@ -22,7 +22,7 @@ It focuses on understanding data structures, implementing algorithms from scratc
 ## 🛠️ Technology Used
 
 * **Language:** Python
-* **IDE:** VS Code / PyCharm
+* **IDE:** VS Code
 * **Version Control:** Git & GitHub
 
 ## 📌 Topics Covered

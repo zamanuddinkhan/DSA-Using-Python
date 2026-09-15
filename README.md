@@ -417,9 +417,3 @@ This repository also contains coding problems organized according to difficulty.
 | BFS                        | O(V + E)                |
 | DFS                        | O(V + E)                |
 | Dijkstra's Algorithm       | O((V + E) log V)        |
-
-## 📚 Goal
-
-The main goal of this repository is to build a **strong foundation in Data Structures and Algorithms using Python** through consistent learning, implementation, and problem-solving practice.
-
----

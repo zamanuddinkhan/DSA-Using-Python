@@ -1,4 +1,4 @@
-# Space_Complexity.py
+# Space_Complexity = How much extra memory does an algorithm need as the input size increases?
 
 # O(1) - Constant Space
 def constant_space(n):
